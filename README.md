@@ -42,6 +42,7 @@
 - [Performance Results](#performance-results)
 - [Technology Stack](#technology-stack)
 - [Repository Structure](#repository-structure)
+- [Platform Showcase](#platform-showcase)
 - [Getting Started](#getting-started)
 - [Team](#team)
 - [My Role](#my-role)
@@ -1005,7 +1006,75 @@ fx-alphalabs/
 ```
 
 ---
+## Platform Showcase
 
+### Global System Architecture
+
+<p align="center">
+  <img
+    src="assets/screenshots/archiii.png"
+    alt="FX AlphaLab global system architecture"
+    width="100%"
+  >
+</p>
+
+The platform follows a layered architecture connecting data sources, data engineering, AI analytics, backend services, frontend applications, and deployment infrastructure.
+
+---
+
+### Live Dashboard
+
+<p align="center">
+  <img
+    src="assets/screenshots/dash.png"
+    alt="FX AlphaLab live dashboard"
+    width="100%"
+  >
+</p>
+
+The live dashboard provides a unified view of market signals, confidence scores, market context, news flow, and upcoming economic events.
+
+---
+
+### Detailed Signals
+
+<p align="center">
+  <img
+    src="assets/screenshots/signals.png"
+    alt="FX AlphaLab detailed signals view"
+    width="100%"
+  >
+</p>
+
+Each signal includes direction, confidence, conviction, analyst breakdown, contextual news, risk information, and AlphaBot-generated explanations.
+
+---
+
+### Strategy Performance
+
+<p align="center">
+  <img
+    src="assets/screenshots/perfo.png"
+    alt="FX AlphaLab strategy performance dashboard"
+    width="100%"
+  >
+</p>
+
+The performance view tracks signal quality, confidence, win rate, cumulative pips, drawdown, Sharpe ratio, and pair-level performance metrics.
+
+---
+
+### Signal History
+
+<p align="center">
+  <img
+    src="assets/screenshots/history.png"
+    alt="FX AlphaLab signal history"
+    width="100%"
+  >
+</p>
+
+The signal ledger provides full traceability through timestamps, pair information, direction, confidence, agreement level, market regime, price, and exportable CSV records.
 ## Getting Started
 
 ### Prerequisites
