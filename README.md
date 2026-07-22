@@ -1012,7 +1012,7 @@ fx-alphalabs/
 
 <p align="center">
   <img
-    src="assets/screenshots/archiii.png"
+    src="assests/screenshots/archiii.png"
     alt="FX AlphaLab global system architecture"
     width="100%"
   >
@@ -1026,7 +1026,7 @@ The platform follows a layered architecture connecting data sources, data engine
 
 <p align="center">
   <img
-    src="assets/screenshots/dash.png"
+    src="assests/screenshots/dash.png"
     alt="FX AlphaLab live dashboard"
     width="100%"
   >
@@ -1040,7 +1040,7 @@ The live dashboard provides a unified view of market signals, confidence scores,
 
 <p align="center">
   <img
-    src="assets/screenshots/signals.png"
+    src="assests/screenshots/signals.png"
     alt="FX AlphaLab detailed signals view"
     width="100%"
   >
@@ -1054,7 +1054,7 @@ Each signal includes direction, confidence, conviction, analyst breakdown, conte
 
 <p align="center">
   <img
-    src="assets/screenshots/perfo.png"
+    src="assests/screenshots/perfo.png"
     alt="FX AlphaLab strategy performance dashboard"
     width="100%"
   >
@@ -1068,7 +1068,7 @@ The performance view tracks signal quality, confidence, win rate, cumulative pip
 
 <p align="center">
   <img
-    src="assets/screenshots/history.png"
+    src="assests/screenshots/history.png"
     alt="FX AlphaLab signal history"
     width="100%"
   >
