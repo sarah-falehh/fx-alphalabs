@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/fx-alphalab-banner.png" alt="FX AlphaLab — Multi-Agent Financial Intelligence Platform" width="100%">
+<img src="assets/fx-alphalab-banner.png" alt="FX AlphaLab — Multi-Agent Financial Intelligence Platform" width="100%">
 
 <br>
 
