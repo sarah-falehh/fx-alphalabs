@@ -700,7 +700,7 @@ A production deployment would still require stronger capabilities around:
 
 <p align="center">
   <img
-    src="docs/assets/fx-alphalab-product-showcase.png"
+    src="assests/fx-alphalab-product-showcase.png"
     alt="FX AlphaLab conceptual product overview"
     width="100%"
   >
